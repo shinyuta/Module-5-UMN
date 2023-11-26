@@ -11,7 +11,7 @@ In this application, you can keep track of things that need to be done, the curr
 
 ### Installation
 
-There is no installation required, this app utilises harcoded html, css and javascript.
+There is no installation required, this app utilises harcoded html, css and javascript. It is also deployed live at https://shinyuta.github.io/Module-5-UMN/
 
 ### Credits
 
